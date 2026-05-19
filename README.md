@@ -6,7 +6,8 @@
 <h1 align="center">Asif Draxi</h1>
 
 <p align="center">
-  <code>{"role":"SRE","@":"BlackLine","loc":"BLR","stack":["k8s","terraform","ansible"],"uptime":"99.9%"}</code>
+  <strong>Site Reliability Engineer</strong> @ <a href="https://www.blackline.com/">BlackLine</a><br>
+  <sub>k8s · terraform · ansible · 99.9% uptime · <a href="https://asifad.github.io">portfolio</a></sub>
 </p>
 
 <p align="center">
