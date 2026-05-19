@@ -6,8 +6,7 @@
 <h1 align="center">Asif Draxi</h1>
 
 <p align="center">
-  <strong>Site Reliability Engineer</strong> @ <a href="https://www.blackline.com/">BlackLine</a><br>
-  SRE · DevOps · Cloud · Open Source
+  <code>{"role":"SRE","@":"BlackLine","loc":"BLR","stack":["k8s","terraform","ansible"],"uptime":"99.9%"}</code>
 </p>
 
 <p align="center">
